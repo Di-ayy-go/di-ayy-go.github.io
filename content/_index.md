@@ -56,7 +56,7 @@ sections:
       title:
       text: >-
         <div class="logo-container">
-          <img src="/images/mit.png" alt="Company 1 Logo">
+          <img src="/images/mit.jpg" alt="Company 1 Logo">
           <img src="/images/vu.png" alt="Company 2 Logo">
         </div> 
   - block: markdown
