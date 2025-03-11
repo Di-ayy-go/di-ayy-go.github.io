@@ -56,9 +56,8 @@ sections:
       title: Partners
       text: >-
         <div class="logo-container">
-          <img src="{{ "images/logos/company1.png" | relURL }}" alt="Company 1 Logo">
-          <img src="{{ "images/logos/company2.png" | relURL }}" alt="Company 2 Logo">
-          <img src="{{ "images/logos/company3.png" | relURL }}" alt="Company 3 Logo">
+          <img src="{{ "logos/mit.png" | relURL }}" alt="Company 1 Logo">
+          <img src="{{ "logos/vu.png" | relURL }}" alt="Company 2 Logo">
         </div>
   - block: markdown
     content:
