@@ -5,27 +5,6 @@ date: 2025-03-01
 type: landing
 
 sections:
-  # - block: hero
-  #   content:
-  #     title: Amsterdam Policy Hackathon
-  #     text: bottom text
-  #     cta:
-  #       label: Get Started
-  #       url: https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog
-  #       # icon: 📝
-  #   design:
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-  #       margin: [0, 0, 0, 0]
-  #     # For full-screen, add `min-h-screen` below
-  #     css_class: "dark min-h-screen"
-  #     background:
-  #       color: "navy"
-  #       image:
-  #         # Add your image background to `assets/media/`.
-  #         filename: bg-amsterdam.jpg
-  #         filters:
-  #           brightness: 0.5
   - block: hero
     content:
       title: >-
@@ -66,6 +45,14 @@ sections:
         The Amsterdam Policy Hackathon (APH) is a newly founded hackathon event in Amsterdam, the Netherlands. During this 2.5 days competition event, students and young professionals form multidisciplinary teams to develop data-informed policies and/ or policy tools to help with solving the most pressing societal issues in Amsterdam or the Netherlands more broadly. The challenges are provided by both government and industry actors. At the core, the event champions research and policy development at the interdisciplinary intersection between technology and society. The event is inspired by the MIT Policy Hackathon, which is a similar competition held annually at the Massachusetts Institute of Technology in Boston, US.
         
         Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? Then apply below!
+  - block: logos
+    content:
+      title: Section Title
+      subtitle: Section Subtitle
+      # Path to the logo images within the `assets/media/` folder
+      logo_folder: logos
+    design:
+      columns: '1'
   - block: markdown
     id: challenges
     content:

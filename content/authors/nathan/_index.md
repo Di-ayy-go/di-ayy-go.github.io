@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Advisory Partner
+role: Advisory Partner @ MIT
 
 # Organizations/Affiliations to show in About widget
 organizations:
