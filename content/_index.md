@@ -53,7 +53,7 @@ sections:
   - block: markdown
     id: partners
     content:
-      title:
+      title: Advised by
       text: >-
         <div class="logo-container">
           <img src="/images/mit.jpg" alt="Company 1 Logo">
