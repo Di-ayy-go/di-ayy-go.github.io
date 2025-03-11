@@ -53,11 +53,11 @@ sections:
   - block: markdown
     id: partners
     content:
-      title: Partners
+      title:
       text: >-
         <div class="logo-container">
-          <img src="{{ "logos/mit.png" | relURL }}" alt="Company 1 Logo">
-          <img src="{{ "logos/vu.png" | relURL }}" alt="Company 2 Logo">
+          <img src="{{ "images/mit.png" | relURL }}" alt="Company 1 Logo">
+          <img src="{{ "images/vu.png" | relURL }}" alt="Company 2 Logo">
         </div>
   - block: markdown
     content:
