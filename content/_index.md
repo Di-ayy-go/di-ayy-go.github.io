@@ -5,51 +5,16 @@ date: 2025-03-01
 type: landing
 
 sections:
-  # - block: hero
-  #   content:
-  #     title: Amsterdam Policy Hackathon
-  #     text: bottom text
-  #     cta:
-  #       label: Get Started
-  #       url: https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog
-  #       # icon: 📝
-  #   design:
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-  #       margin: [0, 0, 0, 0]
-  #     # For full-screen, add `min-h-screen` below
-  #     css_class: "dark min-h-screen"
-  #     background:
-  #       color: "navy"
-  #       image:
-  #         # Add your image background to `assets/media/`.
-  #         filename: bg-amsterdam.jpg
-  #         filters:
-  #           brightness: 0.5
   - block: hero
     content:
       title: >-
         <div style="color: white; font-family: 'Archive Regular'">Amsterdam Policy Hackathon</div>
-      # image:
-        # Reference an image in your `assets/media/` folder
-        # filename: bg-amsterdam.jpg
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Stay in the loop
         url: https://forms.gle/iqDdhpaUhu2fL3sU8
         icon_pack: fas
         icon: newspaper
-        # class: cta_button
-      # Optionally, add an alternative CTA link
-      # cta_alt:
-      #   label: View challenges
-      #   url: /#challenges
-
-      # Optionally, add a note under the Call-To-Action button
-      # cta_note:
-      #   label: >-
-      #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>          
-      # Add your Hero text here
       text: >-
         <div style="color: white;"><b>A new hackathon focused on interdisciplinary, data-driven policymaking.</b></div><!--Custom spacing--><div class="mb-3"></div><!--GitHub Button JS--><script async defer src="https://buttons.github.io/buttons.js"></script>   
     design:
@@ -67,11 +32,6 @@ sections:
       text: |-
         The Amsterdam Policy Hackathon (APH) is a newly founded hackathon event in Amsterdam, the Netherlands. During this 2.5 days competition event, students and young professionals form multidisciplinary teams to develop data-informed policies and/ or policy tools to help with solving the most pressing societal issues in Amsterdam or the Netherlands more broadly. The challenges are provided by both government and industry stakeholders. At the core, the event champions research and policy development at the interdisciplinary intersection between technology and society. The event is inspired by the MIT Policy Hackathon, which is a similar competition held annually at the Massachusetts Institute of Technology in Boston, US.
 
-  # - block: markdown
-  #   id: challenges
-  #   content:
-  #     title: Challenges
-  #     text: To be announced, stay tuned!
   - block: markdown
     content:
       title: Thank you to everyone for attending the event!
