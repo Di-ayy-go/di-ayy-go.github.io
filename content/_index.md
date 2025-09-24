@@ -56,7 +56,7 @@ sections:
                   </div>
                 </div>
                 <blockquote>
-                  "Joining this hackathon was both fun and valuable. For me, the best part was experimenting with ideas, meeting new people, and testing skills in a fast-paced setting."
+                  Joining this hackathon was both fun and valuable. For me, the best part was experimenting with ideas, meeting new people, and testing skills in a fast-paced setting.”
                   <div class="testimonial-read-more">
                     <a href="/events/2025/" class="read-more-link">
                       <i class="fas fa-arrow-right"></i> Read Tessa's full testimonial
@@ -82,7 +82,7 @@ sections:
                   </div>
                 </div>
                 <blockquote>
-                  "Participating in the first Amsterdam Policy Hackathon was an exciting and rewarding experience. Even though I did not rely heavily on my technical skills, I actively used reasoning, creativity, and problem-solving throughout the competition."
+                  Participating in the first Amsterdam Policy Hackathon was an exciting and rewarding experience. Even though I did not rely heavily on my technical skills, I actively used reasoning, creativity, and problem-solving throughout the competition.”
                   <div class="testimonial-read-more">
                     <a href="/events/2025/" class="read-more-link">
                       <i class="fas fa-arrow-right"></i> Read Matteo's full testimonial

@@ -203,7 +203,7 @@
   color: #333;
   font-size: 1.1rem;
   display: block;
-  margin-bottom: 4px;
+  margin-bottom: -10px;
 }
 
 .author-title {
@@ -225,7 +225,7 @@
 }
 
 .testimonials blockquote:before {
-  content: '"';
+  content: '“';
   font-size: 3rem;
   color: #fb0102;
   position: absolute;
