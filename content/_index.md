@@ -40,27 +40,45 @@ sections:
         Our first Amsterdam Policy Hackathon was a tremendous success! Here's what participants had to say about their experience.
       text: |
         <div class="row testimonials">
-          <div class="col-md-6 mb-4">
+          <div class="col-lg-6 mb-4">
             <div class="testimonial-card">
               <div class="testimonial-content">
+                <div class="testimonial-header">
+                  <div class="testimonial-avatar">
+                    <img src="/images/avatars/tessa-clement.jpg" alt="Tessa Clement" class="avatar-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                    <div class="avatar-placeholder" style="display: none;">
+                      <i class="fas fa-user"></i>
+                    </div>
+                  </div>
+                  <div class="testimonial-author-info">
+                    <strong>Tessa Clement</strong><br>
+                    <span class="author-title">Health Tech Consultant</span>
+                  </div>
+                </div>
                 <blockquote>
                   "Joining this hackathon was both fun and valuable. For me, the best part was experimenting with ideas, meeting new people, and testing skills in a fast-paced setting. Winning our challenge was the cherry on top: a rewarding recognition of two days of teamwork and creativity. As the founder of a health tech consultancy company, I loved seeing how students approach innovation in healthcare and AI. It was a great reminder that hackathons are not only about competing, but also about connecting, learning, and sparking ideas that may grow into something bigger."
                 </blockquote>
-                <div class="testimonial-author">
-                  <em>Tessa Clement, Amsterdam Policy Hackathon 2025</em>
-                </div>
               </div>
             </div>
           </div>
-          <div class="col-md-6 mb-4">
-            <div class="testimonial-card">
+          <div class="col-lg-6 mb-4">
+            <div class="testimonial-card testimonial-long">
               <div class="testimonial-content">
-                <blockquote>
+                <div class="testimonial-header">
+                  <div class="testimonial-avatar">
+                    <img src="/images/avatars/matteo-postiferi.jpg" alt="Matteo Postiferi" class="avatar-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                    <div class="avatar-placeholder" style="display: none;">
+                      <i class="fas fa-user"></i>
+                    </div>
+                  </div>
+                  <div class="testimonial-author-info">
+                    <strong>Matteo Postiferi</strong><br>
+                    <span class="author-title">Sustainability & Innovation Enthusiast</span>
+                  </div>
+                </div>
+                <blockquote class="long-quote">
                   "Participating in the first Amsterdam Policy Hackathon was an exciting and rewarding experience. Even though I did not rely heavily on my technical skills, I actively used reasoning, creativity, and problem-solving throughout the competition. It was my first time joining an initiative like this, and I would highly recommend it to anyone interested in meeting inspiring people and collaborating in a dynamic environment. Our project focused on sustainability and environmental challenges, topics I care deeply about but had not yet had the opportunity to explore in such a practical way. I particularly appreciated how participants from diverse backgrounds could each contribute to tackle complex challenges together. I am grateful for the opportunity to participate and for the chance to learn from such an engaging setting. This experience has motivated me to take part in similar projects in the future and continue exploring the intersection of innovation, sustainability, and teamwork."
                 </blockquote>
-                <div class="testimonial-author">
-                  <em>Matteo Postiferi, Amsterdam Policy Hackathon 2025</em>
-                </div>
               </div>
             </div>
           </div>

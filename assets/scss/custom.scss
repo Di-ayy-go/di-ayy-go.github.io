@@ -152,6 +152,8 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   height: 100%;
   border-left: 4px solid #fb0102;
+  display: flex;
+  flex-direction: column;
 }
 
 .testimonials .testimonial-card:hover {
@@ -159,13 +161,66 @@
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
 }
 
+/* Testimonial Header with Avatar */
+.testimonial-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.testimonial-avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 15px;
+  flex-shrink: 0;
+  background: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid #fb0102;
+}
+
+.avatar-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.avatar-placeholder {
+  color: #fb0102;
+  font-size: 24px;
+}
+
+.testimonial-author-info {
+  flex: 1;
+}
+
+.testimonial-author-info strong {
+  color: #333;
+  font-size: 1.1rem;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.author-title {
+  color: #666;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+/* Quote Styling */
 .testimonials blockquote {
   font-size: 1.1rem;
-  line-height: 1.6;
+  line-height: 1.7;
   color: #333;
-  margin-bottom: 20px;
+  margin: 0;
   font-style: italic;
   position: relative;
+  flex: 1;
 }
 
 .testimonials blockquote:before {
@@ -173,25 +228,23 @@
   font-size: 3rem;
   color: #fb0102;
   position: absolute;
-  top: -10px;
+  top: -15px;
   left: -10px;
   font-family: serif;
+  opacity: 0.3;
 }
 
-.testimonial-author {
-  padding-top: 15px;
-  border-top: 1px solid #eee;
+/* Long quote specific styling */
+.testimonials .testimonial-long {
+  min-height: 400px;
 }
 
-.testimonial-author strong {
-  color: #333;
-  font-size: 1rem;
+.testimonials .long-quote {
+  font-size: 1.05rem;
+  line-height: 1.8;
 }
 
-.testimonial-author em {
-  color: #666;
-  font-size: 0.9rem;
-}
+/* Remove old testimonial-author styles as they're replaced */
 
 /* Video Placeholder */
 .video-placeholder {
@@ -226,6 +279,32 @@
 @media (max-width: 768px) {
   .testimonials .testimonial-card {
     margin-bottom: 30px;
+    padding: 20px;
+  }
+  
+  .testimonial-header {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .testimonial-avatar {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  
+  .testimonials .testimonial-long {
+    min-height: auto;
+  }
+  
+  .testimonials blockquote {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
+  .testimonials .long-quote {
+    font-size: 0.95rem;
+    line-height: 1.7;
   }
   
   .stat-highlight {
