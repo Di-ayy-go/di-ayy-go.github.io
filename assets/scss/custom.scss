@@ -266,6 +266,83 @@
   transform: translateX(3px);
 }
 
+/* LinkedIn Testimonials Section */
+.linkedin-testimonials {
+  margin: 40px 0;
+  padding: 30px;
+  background: linear-gradient(135deg, #0077b5 0%, #005885 100%);
+  border-radius: 12px;
+  color: white;
+}
+
+.linkedin-section {
+  text-align: center;
+}
+
+.linkedin-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.linkedin-header i {
+  font-size: 2rem;
+  color: white;
+}
+
+.linkedin-header h3 {
+  margin: 0;
+  color: white;
+  font-size: 1.5rem;
+}
+
+.linkedin-description {
+  margin-bottom: 25px;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+.linkedin-links {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.linkedin-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 24px;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.linkedin-link:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.linkedin-link.secondary {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.linkedin-link.secondary:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
 /* Remove old testimonial-author styles as they're replaced */
 
 /* Video Placeholder */
@@ -327,6 +404,21 @@
   
   .read-more-link {
     font-size: 0.85rem;
+  }
+  
+  .linkedin-testimonials {
+    padding: 20px;
+    margin: 30px 0;
+  }
+  
+  .linkedin-links {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .linkedin-link {
+    justify-content: center;
+    padding: 10px 20px;
   }
   
   .stat-highlight {

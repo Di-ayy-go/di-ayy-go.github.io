@@ -17,7 +17,6 @@ abstract: 'The first edition of the Amsterdam Policy Hackathon was a tremendous 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-09-12T19:00:00Z'
-date_end: '2025-09-14T18:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -83,6 +82,32 @@ Our inaugural event featured four compelling challenges that participants tackle
 ### Matteo Postiferi - Sustainability & Innovation Enthusiast
 
 > "Participating in the first Amsterdam Policy Hackathon was an exciting and rewarding experience. Even though I did not rely heavily on my technical skills, I actively used reasoning, creativity, and problem-solving throughout the competition. It was my first time joining an initiative like this, and I would highly recommend it to anyone interested in meeting inspiring people and collaborating in a dynamic environment. Our project focused on sustainability and environmental challenges, topics I care deeply about but had not yet had the opportunity to explore in such a practical way. I particularly appreciated how participants from diverse backgrounds could each contribute to tackle complex challenges together. I am grateful for the opportunity to participate and for the chance to learn from such an engaging setting. This experience has motivated me to take part in similar projects in the future and continue exploring the intersection of innovation, sustainability, and teamwork."
+
+## More Testimonials on LinkedIn {#more-testimonials-on-linkedin}
+
+We were thrilled to receive numerous testimonials and feedback from participants on LinkedIn! These authentic reviews showcase the diverse experiences and impact of our first hackathon:
+
+<div class="linkedin-testimonials">
+  <div class="linkedin-section">
+    <div class="linkedin-header">
+      <i class="fab fa-linkedin"></i>
+      <h3>LinkedIn Testimonials</h3>
+    </div>
+    <p class="linkedin-description">
+      Read more participant experiences, insights, and reflections from our LinkedIn community. These testimonials highlight the real impact and value participants gained from the Amsterdam Policy Hackathon.
+    </p>
+    <div class="linkedin-links">
+      <a href="[YOUR_LINKEDIN_POST_URL]" class="linkedin-link" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+        View LinkedIn Testimonials
+      </a>
+      <a href="[YOUR_LINKEDIN_COMPANY_PAGE]" class="linkedin-link secondary" target="_blank" rel="noopener">
+        <i class="fas fa-building"></i>
+        Follow Our LinkedIn
+      </a>
+    </div>
+  </div>
+</div>
 
 ## Event Highlights
 

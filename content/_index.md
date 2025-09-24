@@ -37,7 +37,7 @@ sections:
     content:
       title: What Our Participants Say
       subtitle: |
-        Our first Amsterdam Policy Hackathon was a tremendous success! Here's what participants had to say about their experience.
+        Our first Amsterdam Policy Hackathon was a tremendous success! Here's what participants had to say about their experience. <a href="/events/2025/#more-testimonials-on-linkedin" style="color: #0077b5; text-decoration: none;">View more testimonials on LinkedIn</a>.
       text: |
         <div class="row testimonials">
           <div class="col-lg-6 mb-4">
