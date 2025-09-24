@@ -79,19 +79,25 @@ sections:
         <div class="row text-center mt-5">
           <div class="col-md-3">
             <div class="stat-highlight">
-              <h2 class="display-4 text-primary">50+</h2>
+              <h2 class="display-4 text-primary">170+</h2>
+              <p>Sign-ups</p>
+            </div>
+          </div>
+            <div class="col-md-3">
+            <div class="stat-highlight">
+              <h2 class="display-4 text-primary">80+</h2>
               <p>Participants</p>
             </div>
           </div>
           <div class="col-md-3">
             <div class="stat-highlight">
-              <h2 class="display-4 text-primary">15+</h2>
+              <h2 class="display-4 text-primary">18</h2>
               <p>Multidisciplinary Teams</p>
             </div>
           </div>
           <div class="col-md-3">
             <div class="stat-highlight">
-              <h2 class="display-4 text-primary">8</h2>
+              <h2 class="display-4 text-primary">4</h2>
               <p>Policy Challenges</p>
             </div>
           </div>
