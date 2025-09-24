@@ -26,7 +26,7 @@ authors: [Diego van der Mast, Mike Geerts, Xuelong Fu]
 tags: [hackathon, policy, data-science, amsterdam, innovation]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Kick-off of APH 2025'
