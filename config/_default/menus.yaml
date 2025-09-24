@@ -9,18 +9,18 @@ main:
   - name: About
     url: /#about
     weight: 20
-  - name: Challenges
-    url: /#challenges
-    weight: 30
-  - name: Sponsors
+  # - name: Challenges
+  #   url: /#challenges
+  #   weight: 30
+  - name: Partners
     weight: 40
-    url: /sponsors
+    url: /partners
   - name: FAQ
     weight: 50
     url: /faq
   - name: Team
     weight: 60
     url: /team
-  - name: Events
-    weight: 70
-    url: /events
+  # - name: Events
+  #   weight: 70
+  #   url: /events
