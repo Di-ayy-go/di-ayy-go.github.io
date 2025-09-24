@@ -234,14 +234,36 @@
   opacity: 0.3;
 }
 
-/* Long quote specific styling */
-.testimonials .testimonial-long {
-  min-height: 400px;
+/* Read more links */
+.testimonial-read-more {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #eee;
 }
 
-.testimonials .long-quote {
-  font-size: 1.05rem;
-  line-height: 1.8;
+.read-more-link {
+  color: #fb0102;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.read-more-link:hover {
+  color: #d40001;
+  text-decoration: none;
+  transform: translateX(3px);
+}
+
+.read-more-link i {
+  transition: transform 0.3s ease;
+}
+
+.read-more-link:hover i {
+  transform: translateX(3px);
 }
 
 /* Remove old testimonial-author styles as they're replaced */
@@ -293,18 +315,18 @@
     margin-bottom: 15px;
   }
   
-  .testimonials .testimonial-long {
-    min-height: auto;
-  }
-  
   .testimonials blockquote {
     font-size: 1rem;
     line-height: 1.6;
   }
   
-  .testimonials .long-quote {
-    font-size: 0.95rem;
-    line-height: 1.7;
+  .testimonial-read-more {
+    margin-top: 10px;
+    padding-top: 10px;
+  }
+  
+  .read-more-link {
+    font-size: 0.85rem;
   }
   
   .stat-highlight {

@@ -56,7 +56,12 @@ sections:
                   </div>
                 </div>
                 <blockquote>
-                  "Joining this hackathon was both fun and valuable. For me, the best part was experimenting with ideas, meeting new people, and testing skills in a fast-paced setting. Winning our challenge was the cherry on top: a rewarding recognition of two days of teamwork and creativity. As the founder of a health tech consultancy company, I loved seeing how students approach innovation in healthcare and AI. It was a great reminder that hackathons are not only about competing, but also about connecting, learning, and sparking ideas that may grow into something bigger."
+                  "Joining this hackathon was both fun and valuable. For me, the best part was experimenting with ideas, meeting new people, and testing skills in a fast-paced setting."
+                  <div class="testimonial-read-more">
+                    <a href="/events/2025/" class="read-more-link">
+                      <i class="fas fa-arrow-right"></i> Read Tessa's full testimonial
+                    </a>
+                  </div>
                 </blockquote>
               </div>
             </div>
@@ -76,8 +81,13 @@ sections:
                     <span class="author-title">Sustainability & Innovation Enthusiast</span>
                   </div>
                 </div>
-                <blockquote class="long-quote">
-                  "Participating in the first Amsterdam Policy Hackathon was an exciting and rewarding experience. Even though I did not rely heavily on my technical skills, I actively used reasoning, creativity, and problem-solving throughout the competition. It was my first time joining an initiative like this, and I would highly recommend it to anyone interested in meeting inspiring people and collaborating in a dynamic environment. Our project focused on sustainability and environmental challenges, topics I care deeply about but had not yet had the opportunity to explore in such a practical way. I particularly appreciated how participants from diverse backgrounds could each contribute to tackle complex challenges together. I am grateful for the opportunity to participate and for the chance to learn from such an engaging setting. This experience has motivated me to take part in similar projects in the future and continue exploring the intersection of innovation, sustainability, and teamwork."
+                <blockquote>
+                  "Participating in the first Amsterdam Policy Hackathon was an exciting and rewarding experience. Even though I did not rely heavily on my technical skills, I actively used reasoning, creativity, and problem-solving throughout the competition."
+                  <div class="testimonial-read-more">
+                    <a href="/events/2025/" class="read-more-link">
+                      <i class="fas fa-arrow-right"></i> Read Matteo's full testimonial
+                    </a>
+                  </div>
                 </blockquote>
               </div>
             </div>
