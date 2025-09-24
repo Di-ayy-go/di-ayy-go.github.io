@@ -97,11 +97,11 @@ We were thrilled to receive numerous testimonials and feedback from participants
       Read more participant experiences, insights, and reflections from our LinkedIn community. These testimonials highlight the real impact and value participants gained from the Amsterdam Policy Hackathon.
     </p>
     <div class="linkedin-links">
-      <a href="[YOUR_LINKEDIN_POST_URL]" class="linkedin-link" target="_blank" rel="noopener">
+      <a href="https://www.linkedin.com/search/results/content/?heroEntityKey=urn%3Ali%3Aorganization%3A106070199&keywords=amsterdam%20policy%20hackathon&origin=SWITCH_SEARCH_VERTICAL&position=0&searchId=b749434e-c2a6-4557-b402-dfd157f31032&sid=6uN" class="linkedin-link" target="_blank" rel="noopener">
         <i class="fab fa-linkedin"></i>
         View LinkedIn Testimonials
       </a>
-      <a href="[YOUR_LINKEDIN_COMPANY_PAGE]" class="linkedin-link secondary" target="_blank" rel="noopener">
+      <a href="https://www.linkedin.com/company/amsterdam-policy-hackathon" class="linkedin-link secondary" target="_blank" rel="noopener">
         <i class="fas fa-building"></i>
         Follow Our LinkedIn
       </a>
