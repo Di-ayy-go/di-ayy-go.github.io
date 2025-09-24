@@ -51,8 +51,8 @@ sections:
                     </div>
                   </div>
                   <div class="testimonial-author-info">
-                    <strong>Tessa Clement</strong><br>
-                    <span class="author-title">Health Tech Consultant</span>
+                    <strong>Tessa Clement</strong>
+                    <span class="author-title">Health Tech Startup Founder</span>
                   </div>
                 </div>
                 <blockquote>
@@ -77,8 +77,8 @@ sections:
                     </div>
                   </div>
                   <div class="testimonial-author-info">
-                    <strong>Matteo Postiferi</strong><br>
-                    <span class="author-title">Sustainability & Innovation Enthusiast</span>
+                    <strong>Matteo Postiferi</strong>
+                    <span class="author-title">MSc Computational Science Student</span>
                   </div>
                 </div>
                 <blockquote>
