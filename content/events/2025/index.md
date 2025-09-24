@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Amsterdam Policy Hackathon 2025 | 1st Edition
 
 event: Hackathon
@@ -54,4 +54,4 @@ slides: ""
 projects: []
 ---
 
-The first edition of the Amsterdam Policy Hackathon! For more information, refer to the <a href="/faq">FAQ section</a>.
+The first edition of the Amsterdam Policy Hackathon! For more information, refer to the <a href="/faq">FAQ section</a>. -->
