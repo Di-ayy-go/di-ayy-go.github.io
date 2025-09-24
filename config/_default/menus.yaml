@@ -18,6 +18,6 @@ main:
   - name: Team
     weight: 60
     url: /team
-  - name: 1st Edition
+  - name: Recent Events
     weight: 70
-    url: /previous-editions/2025/
+    url: /events/2025/

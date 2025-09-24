@@ -15,12 +15,12 @@ abstract: 'The first edition of the Amsterdam Policy Hackathon! For more informa
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-06-01T13:00:00Z'
-date_end: '2025-06-01T15:00:00Z'
+date: '2025-09-12T19:00:00Z'
+date_end: '2025-09-12T29:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-01-04T00:00:00Z'
+publishDate: '2025-09-24T14:00:00Z'
 
 authors: [Diego van der Mast, Mike Geerts, Xuelong Fu]
 tags: []
