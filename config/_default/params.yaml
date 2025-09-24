@@ -41,10 +41,6 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "icon.png"
-    button:
-      enable: true
-      text: "Apply"
-      url: "https://forms.gle/aB2KvRuoPSzJcrGSA"
     show_search: false
     show_theme_chooser: true
     show_logo: true
