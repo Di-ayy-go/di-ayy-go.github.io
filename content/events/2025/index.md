@@ -11,7 +11,7 @@ address:
   country: Netherlands
 
 summary: Amsterdam Policy Hackathon 2025
-abstract: 'The first edition of the Amsterdam Policy Hackathon! For more information, refer to the <a href="/faq">FAQ section</a>.'
+abstract: 'The first edition of the Amsterdam Policy Hackathon was a tremendous success, bringing together 80+ participants from diverse backgrounds to tackle real-world policy challenges through data-driven solutions.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -52,4 +52,23 @@ slides: ""
 projects: []
 ---
 
-The first edition of the Amsterdam Policy Hackathon! For more information, refer to the <a href="/faq">FAQ section</a>.
+## Event Overview
+
+The first edition of the Amsterdam Policy Hackathon (APH) took place from September 12-14, 2025, at Amsterdam Science Park. This groundbreaking event brought together 80+ participants from diverse academic and professional backgrounds to tackle real-world policy challenges through innovative, data-driven solutions.
+
+## Key Statistics
+
+- **170+ Sign-ups** from across the Netherlands and beyond
+- **80+ Participants** who attended the event
+- **18 Multidisciplinary Teams** formed during the hackathon
+- **4 Policy Challenges** provided by government and industry stakeholders
+- **2.5 Days** of intensive collaboration and innovation
+
+## Policy Challenges
+
+Our inaugural event featured four compelling challenges that participants tackled:
+
+1. **Healthcare Innovation** - Developing data-driven policies for improving healthcare accessibility
+2. **Environmental Sustainability** - Creating policy frameworks for urban sustainability initiatives
+3. **Digital Governance** - Addressing AI and technology policy in public administration
+4. **Social Equity** - Designing inclusive policies for diverse communities
