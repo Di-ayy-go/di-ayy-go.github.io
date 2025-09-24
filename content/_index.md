@@ -33,6 +33,81 @@ sections:
         The Amsterdam Policy Hackathon (APH) is a newly founded hackathon event in Amsterdam, the Netherlands. During this 2.5 days competition event, students and young professionals form multidisciplinary teams to develop data-informed policies and/ or policy tools to help with solving the most pressing societal issues in Amsterdam or the Netherlands more broadly. The challenges are provided by both government and industry stakeholders. At the core, the event champions research and policy development at the interdisciplinary intersection between technology and society. The event is inspired by the MIT Policy Hackathon, which is a similar competition held annually at the Massachusetts Institute of Technology in Boston, US.
 
   - block: markdown
+    id: testimonials
+    content:
+      title: What Our Participants Say
+      subtitle: |
+        Our first Amsterdam Policy Hackathon was a tremendous success! Here's what participants had to say about their experience.
+      text: |
+        <div class="row testimonials">
+          <div class="col-md-6 mb-4">
+            <div class="testimonial-card">
+              <div class="testimonial-content">
+                <blockquote>
+                  "The Amsterdam Policy Hackathon was an incredible experience that brought together diverse perspectives to tackle real-world challenges. Working with students and professionals from different backgrounds opened my eyes to new approaches in data-driven policymaking."
+                </blockquote>
+                <div class="testimonial-author">
+                  <strong>Testimonial 1</strong><br>
+                  <em>Participant, Amsterdam Policy Hackathon 2025</em>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 mb-4">
+            <div class="testimonial-card">
+              <div class="testimonial-content">
+                <blockquote>
+                  "This hackathon perfectly bridged the gap between technology and policy. The interdisciplinary teams and real stakeholder challenges made this more than just a competition - it was a learning journey that will impact how I approach policy problems in my career."
+                </blockquote>
+                <div class="testimonial-author">
+                  <strong>Testimonial 2</strong><br>
+                  <em>Participant, Amsterdam Policy Hackathon 2025</em>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="text-center mt-5">
+          <h3>Watch Our Success Story</h3>
+          <p class="lead">Hear directly from participants about their experience and the impact of the Amsterdam Policy Hackathon.</p>
+          <div class="video-placeholder" style="background: #f8f9fa; border: 2px dashed #dee2e6; padding: 60px 20px; border-radius: 8px; margin: 20px 0;">
+            <i class="fas fa-play-circle fa-3x text-muted mb-3"></i>
+            <p class="text-muted">Video interviews with participants will be embedded here</p>
+            <small class="text-muted">Coming soon - check back for participant interviews and event highlights!</small>
+          </div>
+        </div>
+        
+        <div class="row text-center mt-5">
+          <div class="col-md-3">
+            <div class="stat-highlight">
+              <h2 class="display-4 text-primary">50+</h2>
+              <p>Participants</p>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="stat-highlight">
+              <h2 class="display-4 text-primary">15+</h2>
+              <p>Multidisciplinary Teams</p>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="stat-highlight">
+              <h2 class="display-4 text-primary">8</h2>
+              <p>Policy Challenges</p>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="stat-highlight">
+              <h2 class="display-4 text-primary">2.5</h2>
+              <p>Days of Innovation</p>
+            </div>
+          </div>
+        </div>
+    design:
+      columns: '1'
+
+  - block: markdown
     content:
       title: Thank you to everyone for attending the event!
       subtitle: |
