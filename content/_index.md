@@ -106,47 +106,47 @@ sections:
         
         <div class="mt-4 pb-1">
         <div class="position-relative">
-            <div class="bg-light h-50 position-absolute w-100 top-0"></div>
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-10">
-                        <div class="row row-cols-1 row-cols-md-3 g-4 rounded-3 bg-white shadow-sm">
-                            <div class="col border-end">
-                                <div class="text-center p-4">
-                                    <h5 class="text-muted mb-0">Participants</h5>
-                                    <h1 class="fw-bold text-dark">170+</h1>
-                                </div>
-                            </div>
-                            <div class="col border-end">
-                                <div class="text-center p-4">
-                                    <h5 class="text-muted mb-0">Participants</h5>
-                                    <h1 class="fw-bold text-dark">80+</h1>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="text-center p-4">
-                                    <h5 class="text-muted mb-0">Multidisciplinary Teams</h5>
-                                    <h1 class="fw-bold text-dark">18</h1>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="text-center p-4">
-                                    <h5 class="text-muted mb-0">Policy Challenges</h5>
-                                    <h1 class="fw-bold text-dark">4</h1>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="text-center p-4">
-                                    <h5 class="text-muted mb-0">Days of Innovation</h5>
-                                    <h1 class="fw-bold text-dark">2.5</h1>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+          <div class="bg-light h-50 position-absolute w-100 top-0"></div>
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <div class="row row-cols-1 row-cols-md-3 g-4 rounded-3 bg-white shadow-sm">
+              <div class="col border-end">
+                <div class="text-center p-4">
+                  <h5 class="text-muted mb-0">Participants</h5>
+                  <h1 class="fw-bold text-dark">170+</h1>
                 </div>
+              </div>
+              <div class="col border-end">
+                <div class="text-center p-4">
+                  <h5 class="text-muted mb-0">Participants</h5>
+                  <h1 class="fw-bold text-dark">80+</h1>
+                </div>
+              </div>
+              <div class="col">
+                <div class="text-center p-4">
+                  <h5 class="text-muted mb-0">Multidisciplinary Teams</h5>
+                  <h1 class="fw-bold text-dark">18</h1>
+                </div>
+              </div>
+              <div class="col">
+                <div class="text-center p-4">
+                  <h5 class="text-muted mb-0">Policy Challenges</h5>
+                  <h1 class="fw-bold text-dark">4</h1>
+                </div>
+              </div>
+              <div class="col">
+                <div class="text-center p-4">
+                  <h5 class="text-muted mb-0">Days of Innovation</h5>
+                  <h1 class="fw-bold text-dark">2.5</h1>
+                </div>
+              </div>
             </div>
+          </div>
         </div>
+      </div>
     </div>
+  </div>
     design:
       columns: '1'
 
