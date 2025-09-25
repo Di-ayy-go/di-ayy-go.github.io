@@ -93,6 +93,7 @@ sections:
     design:
       columns: '1'
   - block: markdown
+    id: statistics
     content:
       text: |
         <div class="bg-white shadow-sm">
