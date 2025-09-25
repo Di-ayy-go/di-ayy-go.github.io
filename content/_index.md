@@ -103,12 +103,11 @@ sections:
             <small class="text-muted">Coming soon - check back for participant interviews and event highlights!</small>
           </div>
         </div>
-        <div class="container">
           <div class="row justify-content-center">
             <div class="col-lg-10">
-            <div class="row row-cols-1 row-cols-md-3 g-4 rounded-3 bg-white shadow-sm">
+            <div class="row row-cols-1 row-cols-md-3 g-4 rounded-3 bg-white shadow-sm no-gutters">
                 <div class="col border-end">
-                  <div class="text-center p-4" stat-highlight>
+                  <div class="text-center p-4 stat-highlight">
                       <h2 class="display-4 text-primary">170+</h2>
                       <p>Sign-ups</p>
                     </div>
@@ -139,7 +138,6 @@ sections:
                   </div>
                 </div>
               </div>
-            </div>    
           </div>
         </div>
     design:
