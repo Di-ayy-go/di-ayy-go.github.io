@@ -134,7 +134,4 @@ The event was documented through various media channels, including participant i
 
 The success of our first edition has set a strong foundation for future Amsterdam Policy Hackathons. We're excited to continue fostering the intersection of technology, data science, and policy innovation.
 
-For more information about future events and how to get involved, visit our [FAQ section](/faq) or stay updated through our [newsletter signup](https://forms.gle/iqDdhpaUhu2fL3sU8).policies for improving healthcare accessibility
-2. **Environmental Sustainability** - Creating policy frameworks for urban sustainability initiatives
-3. **Digital Governance** - Addressing AI and technology policy in public administration
-4. **Social Equity** - Designing inclusive policies for diverse communities
+For more information about future events and how to get involved, visit our [FAQ section](/faq) or stay updated through our [newsletter signup](https://forms.gle/iqDdhpaUhu2fL3sU8).
