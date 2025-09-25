@@ -90,6 +90,14 @@
   max-width: 20%;
 }
 
+.stat-highlight h2 {
+  font-size: clamp(1.8rem, 4vw, 3.5rem);
+}
+
+.stat-highlight p {
+  font-size: clamp(1rem, 2vw, 1.25rem);
+}
+
 .logos:before {
   left: 0;
   background: linear-gradient(to left, rgba(255, 255, 255, 0), #f7f7f7);
