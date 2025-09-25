@@ -42,47 +42,44 @@ sections:
         <div class="row testimonials">
           <div class="col-lg-6 mb-4">
             <div class="testimonial-card">
-              <div class="testimonial-content">
-                <div class="testimonial-header">
-                  <div class="testimonial-avatar">
-                    <img src="/images/avatars/tessa-clement.jpg" alt="Tessa Clement" class="avatar-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-                    <div class="avatar-placeholder" style="display: none;"></div>
-                  </div>
-                  <div class="testimonial-author-info">
-                    <strong>Tessa Clement</strong> <span class="author-title">Health Tech Startup Founder</span>
-                  </div>
+              <div class="testimonial-header">
+                <img src="/images/avatars/tessa-clement.jpg" alt="Tessa Clement" class="avatar-img" 
+                    onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                <div class="avatar-placeholder">TC</div>
+                <div>
+                  <h4 class="author-name">Tessa Clement</h4>
+                  <p class="author-title">Health Tech Startup Founder</p>
                 </div>
-                <blockquote>
-                  Joining this hackathon was both fun and valuable. For me, the best part was experimenting with ideas, meeting new people, and testing skills in a fast-paced setting.”
-                  <div class="testimonial-read-more">
-                    <a href="/events/2025/" class="read-more-link">Read Tessa's full testimonial</a>
-                  </div>
-                </blockquote>
               </div>
+              <p class="testimonial-text">
+                “Joining this hackathon was both fun and valuable. For me, the best part was experimenting with ideas, 
+                meeting new people, and testing skills in a fast-paced setting.”
+              </p>
+              <a href="/events/2025/" class="read-more-link">Read Tessa's full testimonial</a>
             </div>
           </div>
+
           <div class="col-lg-6 mb-4">
-            <div class="testimonial-card testimonial-long">
-              <div class="testimonial-content">
-                <div class="testimonial-header">
-                  <div class="testimonial-avatar">
-                    <img src="/images/avatars/matteo-postiferi.jpg" alt="Matteo Postiferi" class="avatar-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-                    <div class="avatar-placeholder" style="display: none;"></div>
-                  </div>
-                  <div class="testimonial-author-info">
-                    <strong>Matteo Postiferi</strong> <span class="author-title">MSc Computational Science Student</span>
-                  </div>
+            <div class="testimonial-card">
+              <div class="testimonial-header">
+                <img src="/images/avatars/matteo-postiferi.jpg" alt="Matteo Postiferi" class="avatar-img" 
+                    onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                <div class="avatar-placeholder">MP</div>
+                <div>
+                  <h4 class="author-name">Matteo Postiferi</h4>
+                  <p class="author-title">MSc Computational Science Student</p>
                 </div>
-                <blockquote>
-                  Participating in the first Amsterdam Policy Hackathon was an exciting and rewarding experience. Even though I did not rely heavily on my technical skills, I actively used reasoning, creativity, and problem-solving throughout the competition.”
-                  <div class="testimonial-read-more">
-                    <a href="/events/2025/" class="read-more-link">Read Matteo's full testimonial</a>
-                  </div>
-                </blockquote>
               </div>
+              <p class="testimonial-text">
+                “Participating in the first Amsterdam Policy Hackathon was an exciting and rewarding experience. 
+                Even though I did not rely heavily on my technical skills, I actively used reasoning, creativity, 
+                and problem-solving throughout the competition.”
+              </p>
+              <a href="/events/2025/" class="read-more-link">Read Matteo's full testimonial</a>
             </div>
           </div>
         </div>
+
         <div class="text-center mt-5">
           <h3>Watch Our Success Story</h3>
           <p class="lead">Hear directly from participants about their experience and the impact of the Amsterdam Policy Hackathon.</p>
