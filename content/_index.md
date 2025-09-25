@@ -104,9 +104,9 @@ sections:
           </div>
         </div>
         <div class="container">
-          <div class="row justify-content-center no-gutters">
+          <div class="row justify-content-center">
             <div class="col-lg-10">
-            <div class="row row-cols-1 row-cols-md-3 g-4 rounded-3 bg-white shadow-sm no-gutters">
+            <div class="row row-cols-1 row-cols-lg-5 g-4 rounded-3 bg-white shadow-sm">
                 <div class="col border-end">
                   <div class="text-center p-4 stat-highlight">
                       <h2 class="display-4 text-primary">170+</h2>
