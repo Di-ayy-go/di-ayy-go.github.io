@@ -90,6 +90,11 @@ sections:
             <p class="text-muted">Video interviews with participants will be embedded here</p><small class="text-muted">Coming soon - check back for participant interviews and event highlights!</small>
           </div>
         </div>
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      text: |
         <div class="bg-white shadow-sm">
           <div class="container">
             <div class="row row-cols-1 row-cols-lg-5 g-4">
@@ -126,9 +131,6 @@ sections:
             </div>
           </div>
         </div>
-    design:
-      columns: '1'
-
   - block: markdown
     content:
       title: Thank you to everyone for attending the event!
