@@ -110,9 +110,10 @@ We were thrilled to receive numerous testimonials and feedback from participants
 </div>
 
 ## Event Highlights
+![View the 2025 Hackathon Schedule](/images/2025/schedule.png)
 
 ### Opening Ceremony
-The event kicked off with inspiring keynote presentations from industry leaders and government officials, setting the stage for innovative policy development.
+The event kicked off with inspiring keynote presentations from industry leaders and professors, setting the stage for innovative policy development.
 
 ### Team Formation
 Participants had the opportunity to form multidisciplinary teams based on their interests and expertise, ensuring diverse perspectives on each challenge.
@@ -121,17 +122,10 @@ Participants had the opportunity to form multidisciplinary teams based on their 
 Throughout the hackathon, participants received guidance from experienced mentors from academia, government, and industry.
 
 ### Final Presentations
-Teams presented their innovative policy solutions to a panel of judges, including representatives from the Municipality of Amsterdam and partner organizations.
-
-## Winners & Recognition
-
-The hackathon concluded with the recognition of outstanding solutions across the four challenges. 
-## Media Coverage & Documentation
-
-The event was documented through various media channels, including participant interviews and solution presentations. Video content showcasing the event highlights and participant experiences will be available soon.
+Teams presented their innovative policy solutions to a panel of judges from the public sector, private sector and academia, including representatives from the Municipality of Amsterdam and partner organizations.
 
 ## Looking Forward
 
-The success of our first edition has set a strong foundation for future Amsterdam Policy Hackathons. We're excited to continue fostering the intersection of technology, data science, and policy innovation.
+Looking forward, we aim to faciliate the development of ideas conceptualized at the hackathon with partner organisations and hackathon teams. The success of our first edition has set a strong foundation for future Amsterdam Policy Hackathon. We're excited to continue fostering the intersection of technology, data science, and policy innovation.
 
 For more information about future events and how to get involved, visit our [FAQ section](/faq) or stay updated through our [newsletter signup](https://forms.gle/iqDdhpaUhu2fL3sU8).
