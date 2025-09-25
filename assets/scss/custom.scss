@@ -169,7 +169,6 @@
 .testimonial-header {
   display: flex;
   align-items: center;
-  margin-bottom: 15px;
   padding-bottom: 10px;
   border-bottom: 1px solid #eee;
 }
@@ -203,7 +202,7 @@
   color: #333;
   font-size: 1rem; /* smaller */
   display: block;
-  margin-bottom: -4px;
+  margin-bottom: -14px;
 }
 
 .author-title {
@@ -214,13 +213,14 @@
 
 /* Quote Styling */
 .testimonials blockquote {
-  font-size: 1rem; /* reduced */
+  font-size: 0.8rem; /* reduced */
   line-height: 1.6;
   color: #333;
   margin: 0;
   font-style: italic;
   position: relative;
   flex: 1;
+  border-left: none;
 }
 
 .testimonials blockquote:before {

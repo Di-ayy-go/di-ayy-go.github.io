@@ -53,7 +53,7 @@ sections:
                   </div>
                 </div>
                 <blockquote>
-                  Joining this hackathon was both fun and valuable. For me, the best part was experimenting with ideas, meeting new people, and testing skills in a fast-paced setting.”
+                  Joining this hackathon was both fun and valuable. For me, the best part was experimenting with ideas, meeting new people, and testing skills in a fast-paced setting. (...) As the founder of a health tech consultancy company, I loved seeing how students approach innovation in healthcare and AI.”
                   <div class="testimonial-read-more">
                     <a href="/events/2025/" class="read-more-link">Read Tessa's full testimonial</a>
                   </div>
