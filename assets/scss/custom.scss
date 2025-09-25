@@ -144,46 +144,50 @@
 
 /* Testimonials Section */
 #testimonials {
-  padding: 40px 0;
+  padding: 20px 0;
   background: #f8f9fa;
 }
 
-/* Testimonial Card */
+
+
 .testimonials .testimonial-card {
-  background: #fff;
-  border-radius: 16px;
-  padding: 24px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  background: white;
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
   height: 100%;
+  border-left: 4px solid #fb0102;
   display: flex;
   flex-direction: column;
 }
 
 .testimonials .testimonial-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  transform: translateY(-5px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
 }
 
 /* Testimonial Header with Avatar */
 .testimonial-header {
   display: flex;
   align-items: center;
-  gap: 14px;
-  margin-bottom: 16px;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
 }
 
 .testimonial-avatar {
-  width: 56px;
-  height: 56px;
+  width: 60px;
+  height: 60px;
   border-radius: 50%;
   overflow: hidden;
+  margin-right: 15px;
   flex-shrink: 0;
   background: #f8f9fa;
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid #fb0102;
+  border: 3px solid #fb0102;
 }
 
 .avatar-img {
@@ -194,59 +198,79 @@
 
 .avatar-placeholder {
   color: #fb0102;
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 24px;
 }
 
-/* Author Info */
 .testimonial-author-info {
   flex: 1;
 }
 
 .testimonial-author-info strong {
-  color: #222;
-  font-size: 1.05rem;
-  font-weight: 600;
+  color: #333;
+  font-size: 1.1rem;
   display: block;
+  margin-bottom: -10px;
 }
 
 .author-title {
-  color: #777;
+  color: #666;
   font-size: 0.9rem;
-  margin-top: 2px;
+  font-style: italic;
 }
 
-/* Testimonial Text */
+/* Quote Styling */
 .testimonials blockquote {
-  font-size: 1rem;
-  line-height: 1.6;
-  color: #444;
-  margin: 0 0 12px;
-  font-style: normal;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #333;
+  margin: 0;
+  font-style: italic;
   position: relative;
   flex: 1;
+  border-left: none; 
 }
 
 .testimonials blockquote:before {
-  content: none; /* removes bulky decorative quote */
+  content: '“';
+  font-size: 3rem;
+  color: #fb0102;
+  position: absolute;
+  top: -15px;
+  left: -10px;
+  font-family: serif;
+  opacity: 0.3;
 }
 
-/* Read More Link */
+/* Read more links */
 .testimonial-read-more {
-  margin-top: auto;
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #eee;
 }
 
 .read-more-link {
-  font-size: 0.9rem;
-  font-weight: 500;
   color: #fb0102;
   text-decoration: none;
-  transition: all 0.25s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
 }
 
 .read-more-link:hover {
   color: #d40001;
-  text-decoration: underline;
+  text-decoration: none;
+  transform: translateX(3px);
+}
+
+.read-more-link i {
+  transition: transform 0.3s ease;
+}
+
+.read-more-link:hover i {
+  transform: translateX(3px);
 }
 
 /* LinkedIn Testimonials Section */
@@ -341,67 +365,54 @@
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .testimonials .testimonial-card {
-    margin-bottom: 24px;
+    margin-bottom: 30px;
     padding: 20px;
-    text-align: center; /* keeps everything aligned when stacked */
   }
   
   .testimonial-header {
     flex-direction: column;
+    text-align: center;
     align-items: center;
-    gap: 10px;
-    margin-bottom: 12px;
   }
   
   .testimonial-avatar {
-    margin: 0 0 12px 0;
-    width: 64px;
-    height: 64px;
-  }
-  
-  .testimonial-author-info strong {
-    font-size: 1rem;
-  }
-  
-  .author-title {
-    font-size: 0.85rem;
+    margin-right: 0;
+    margin-bottom: 15px;
   }
   
   .testimonials blockquote {
-    font-size: 0.95rem;
-    line-height: 1.5;
-    margin-bottom: 12px;
+    font-size: 1rem;
+    line-height: 1.6;
   }
   
   .testimonial-read-more {
-    margin-top: 8px;
+    margin-top: 10px;
+    padding-top: 10px;
   }
   
   .read-more-link {
     font-size: 0.85rem;
   }
-
-  /* LinkedIn section adjustments */
+  
   .linkedin-testimonials {
-    padding: 16px;
-    margin: 24px 0;
+    padding: 20px;
+    margin: 30px 0;
   }
   
   .linkedin-links {
     flex-direction: column;
-    gap: 12px;
+    gap: 15px;
   }
   
   .linkedin-link {
     justify-content: center;
-    padding: 10px 16px;
+    padding: 10px 20px;
   }
   
   .stat-highlight {
-    margin-bottom: 24px;
+    margin-bottom: 30px;
   }
 }
-
 
 /* Statistics */
 .stat-highlight {
