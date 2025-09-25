@@ -98,31 +98,31 @@ sections:
       text: |
         <div class="bg-white shadow-sm">
             <div class="row row-cols-1 row-cols-lg-5 g-4">
-              <div class="col" data-aos="fade-up" data-aos-delay="0">
+              <div class="col">
                 <div class="text-center p-4 stat-highlight">
                   <h2 class="text-primary">170+</h2>
                   <p>Sign-ups</p>
                 </div>
               </div>
-              <div class="col" data-aos="fade-up" data-aos-delay="100">
+              <div class="col">
                 <div class="text-center p-4 stat-highlight">
                   <h2 class="text-primary">80+</h2>
                   <p>Participants</p>
                 </div>
               </div>
-              <div class="col" data-aos="fade-up" data-aos-delay="200">
+              <div class="col">
                 <div class="text-center p-4 stat-highlight">
                   <h2 class="text-primary">18</h2>
                   <p>Multidisciplinary Teams</p>
                 </div>
               </div>
-              <div class="col" data-aos="fade-up" data-aos-delay="300">
+              <div class="col">
                 <div class="text-center p-4 stat-highlight">
                   <h2 class="text-primary">4</h2>
                   <p>Policy Challenges</p>
                 </div>
               </div>
-              <div class="col" data-aos="fade-up" data-aos-delay="400">
+              <div class="col">
                 <div class="text-center p-4 stat-highlight">
                   <h2 class="text-primary">2.5</h2>
                   <p>Days of Innovation</p>
