@@ -46,21 +46,16 @@ sections:
                 <div class="testimonial-header">
                   <div class="testimonial-avatar">
                     <img src="/images/avatars/tessa-clement.jpg" alt="Tessa Clement" class="avatar-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-                    <div class="avatar-placeholder" style="display: none;">
-                      <i class="fas fa-user"></i>
-                    </div>
+                    <div class="avatar-placeholder" style="display: none;"></div>
                   </div>
                   <div class="testimonial-author-info">
-                    <strong>Tessa Clement</strong>
-                    <span class="author-title">Health Tech Startup Founder</span>
+                    <strong>Tessa Clement</strong> <span class="author-title">Health Tech Startup Founder</span>
                   </div>
                 </div>
                 <blockquote>
                   Joining this hackathon was both fun and valuable. For me, the best part was experimenting with ideas, meeting new people, and testing skills in a fast-paced setting.”
                   <div class="testimonial-read-more">
-                    <a href="/events/2025/" class="read-more-link">
-                      <i class="fas fa-arrow-right"></i> Read Tessa's full testimonial
-                    </a>
+                    <a href="/events/2025/" class="read-more-link">Read Tessa's full testimonial</a>
                   </div>
                 </blockquote>
               </div>
@@ -72,76 +67,63 @@ sections:
                 <div class="testimonial-header">
                   <div class="testimonial-avatar">
                     <img src="/images/avatars/matteo-postiferi.jpg" alt="Matteo Postiferi" class="avatar-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-                    <div class="avatar-placeholder" style="display: none;">
-                      <i class="fas fa-user"></i>
-                    </div>
+                    <div class="avatar-placeholder" style="display: none;"></div>
                   </div>
                   <div class="testimonial-author-info">
-                    <strong>Matteo Postiferi</strong>
-                    <span class="author-title">MSc Computational Science Student</span>
+                    <strong>Matteo Postiferi</strong> <span class="author-title">MSc Computational Science Student</span>
                   </div>
                 </div>
                 <blockquote>
                   Participating in the first Amsterdam Policy Hackathon was an exciting and rewarding experience. Even though I did not rely heavily on my technical skills, I actively used reasoning, creativity, and problem-solving throughout the competition.”
                   <div class="testimonial-read-more">
-                    <a href="/events/2025/" class="read-more-link">
-                      <i class="fas fa-arrow-right"></i> Read Matteo's full testimonial
-                    </a>
+                    <a href="/events/2025/" class="read-more-link">Read Matteo's full testimonial</a>
                   </div>
                 </blockquote>
               </div>
             </div>
           </div>
         </div>
-        
         <div class="text-center mt-5">
           <h3>Watch Our Success Story</h3>
           <p class="lead">Hear directly from participants about their experience and the impact of the Amsterdam Policy Hackathon.</p>
           <div class="video-placeholder" style="background: #f8f9fa; border: 2px dashed #dee2e6; padding: 60px 20px; border-radius: 8px; margin: 20px 0;">
-            <i class="fas fa-play-circle fa-3x text-muted mb-3"></i>
-            <p class="text-muted">Video interviews with participants will be embedded here</p>
-            <small class="text-muted">Coming soon - check back for participant interviews and event highlights!</small>
+            <p class="text-muted">Video interviews with participants will be embedded here</p><small class="text-muted">Coming soon - check back for participant interviews and event highlights!</small>
           </div>
         </div>
         <div class="bg-white shadow-sm">
-        <div class="container">
+          <div class="container">
             <div class="row row-cols-1 row-cols-lg-5 g-4">
-                    <div class="col" data-aos="fade-up" data-aos-delay="0">
-        <div class="text-center p-4 stat-highlight">
-          <h2 class="display-4 text-primary">170+</h2>
-          <p>Sign-ups</p>
-        </div>
-      </div>
-
-      <div class="col" data-aos="fade-up" data-aos-delay="100">
-        <div class="text-center p-4 stat-highlight">
-          <h2 class="display-4 text-primary">80+</h2>
-          <p>Participants</p>
-        </div>
-      </div>
-
-      <div class="col" data-aos="fade-up" data-aos-delay="200">
-        <div class="text-center p-4 stat-highlight">
-          <h2 class="display-4 text-primary">18</h2>
-          <p>Multidisciplinary Teams</p>
-        </div>
-      </div>
-
-      <div class="col" data-aos="fade-up" data-aos-delay="300">
-        <div class="text-center p-4 stat-highlight">
-          <h2 class="display-4 text-primary">4</h2>
-          <p>Policy Challenges</p>
-        </div>
-      </div>
-
-      <div class="col" data-aos="fade-up" data-aos-delay="400">
-        <div class="text-center p-4 stat-highlight">
-          <h2 class="display-4 text-primary">2.5</h2>
-          <p>Days of Innovation</p>
-        </div>
-      </div>
+              <div class="col" data-aos="fade-up" data-aos-delay="0">
+                <div class="text-center p-4 stat-highlight">
+                  <h2 class="display-4 text-primary">170+</h2>
+                  <p>Sign-ups</p>
                 </div>
               </div>
+              <div class="col" data-aos="fade-up" data-aos-delay="100">
+                <div class="text-center p-4 stat-highlight">
+                  <h2 class="display-4 text-primary">80+</h2>
+                  <p>Participants</p>
+                </div>
+              </div>
+              <div class="col" data-aos="fade-up" data-aos-delay="200">
+                <div class="text-center p-4 stat-highlight">
+                  <h2 class="display-4 text-primary">18</h2>
+                  <p>Multidisciplinary Teams</p>
+                </div>
+              </div>
+              <div class="col" data-aos="fade-up" data-aos-delay="300">
+                <div class="text-center p-4 stat-highlight">
+                  <h2 class="display-4 text-primary">4</h2>
+                  <p>Policy Challenges</p>
+                </div>
+              </div>
+              <div class="col" data-aos="fade-up" data-aos-delay="400">
+                <div class="text-center p-4 stat-highlight">
+                  <h2 class="display-4 text-primary">2.5</h2>
+                  <p>Days of Innovation</p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
     design:
