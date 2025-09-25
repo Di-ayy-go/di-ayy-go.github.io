@@ -109,28 +109,38 @@ sections:
             <div class="row row-cols-1 row-cols-md-3 g-4 rounded-3 bg-white shadow-sm">
                 <div class="col border-end">
                   <div class="text-center p-4">
-                    <h5 class="display-4 text-primary">170+</h5>
-                    <h1>Sign-ups</h1>
+                    <div class="stat-highlight">
+                      <h2 class="display-4 text-primary">170+</h2>
+                      <p>Sign-ups</p>
+                    </div>
                 </div>
                   <div class="col border-end">
                     <div class="text-center p-4">
-                    <h5 class="display-4 text-primary">80+</h5>
-                    <h1>Participants</h1>
+                  <div class="stat-highlight">
+                      <h2 class="display-4 text-primary">80+</h2>
+                      <p>Participants</p>
+                  </  div>
                 </div>
                 <div class="col border-end">
                   <div class="text-center p-4">
-                    <h5 class="display-4 text-primary">18</h5>
-                    <h1>Multidisciplinary Teams</h1>
+                    <div class="stat-highlight">
+                      <h2 class="display-4 text-primary">18</h2>
+                      <p>Multidisciplinary Teams</p>
+                    </div>
                 </div>
                 <div class="col">
                   <div class="text-center p-4">
-                    <h5 class="display-4 text-primary">4</h5>
-                    <h1>Policy Challenges</h1>
+                    <div class="stat-highlight">
+                      <h2 class="display-4 text-primary">4</h2>
+                      <p>Policy Challenges</p>
+                    </div>
                 </div>
                 <div class="col">
                   <div class="text-center p-4">
-                    <h5 class="display-4 text-primary">2.5</h5>
-                    <h1>Days of Innovation</h1>
+                    <div class="stat-highlight">
+                      <h2 class="display-4 text-primary">2.5</h2>
+                      <p>Days of Innovation</p>
+                    </div>
                   </div>
                 </div>
               </div>
