@@ -52,8 +52,26 @@
   
 </script>
 
-<link rel="stylesheet" type="text/css" href="css/cookieconsent.min.css" />
-<script src="js/cookieconsent.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+<script>
+  window.cookieconsent.initialise({
+    palette: {
+      popup: { background: "#000" },
+      button: { background: "#f1d600", text: "#000" }
+    },
+    type: "opt-in",
+    content: {
+      message: "We use cookies to improve your experience.",
+      dismiss: "Got it",
+      allow: "Allow cookies",
+      deny: "Decline"
+    }
+  });
+</script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.js"></script>
 <script>
   window.cookieconsent.initialise({
   container: document.getElementById("content"),
