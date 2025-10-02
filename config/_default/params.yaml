@@ -20,7 +20,7 @@ marketing:
     org_name: 'Amsterdam Policy Hackathon'
     description: 'Join our data-driven policymaking hackathon event in Amsterdam | 2025'
   analytics:
-    google_analytics: 'G-Q37TVZC9C5'
+    google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
