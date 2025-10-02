@@ -86,9 +86,7 @@ sections:
         <div class="text-center mt-5">
           <h3>Watch Our Success Story</h3>
           <p class="lead">Hear directly from participants about their experience and the impact of the Amsterdam Policy Hackathon.</p>
-          <div class="video-placeholder" style="background: #f8f9fa; border: 2px dashed #dee2e6; padding: 60px 20px; border-radius: 8px; margin: 20px 0;">
             <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=PoW38tamr_OgUzIM&amp;list=PLI4sPhFWKnFj7wXlgsyDXkM-oupDdLDWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          </div>
         </div>
     design:
       columns: '1'
